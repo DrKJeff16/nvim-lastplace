@@ -2,7 +2,7 @@
 
 # lastplace.nvim
 
-A rewrite of [`ethanholz/nvim-lastplace`](https://github.com/ethanholz/nvim-lastplace), which in of
+A forked rewrite for [`ethanholz/nvim-lastplace`](https://github.com/ethanholz/nvim-lastplace), which in of
 itself is a Lua rewrite of [`farmergreg/vim-lastplace`](https://github.com/farmergreg/vim-lastplace).
 
 </div>
